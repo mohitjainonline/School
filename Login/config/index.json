@@ -1,0 +1,8 @@
+
+
+
+{
+  "dbUri": "mongodb://localhost/react_app",
+  "jwtSecret": "a secret phrase!!",
+  "ServiecUrl": "https://glacial-inlet-83305.herokuapp.com/api"
+}

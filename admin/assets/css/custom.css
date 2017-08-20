@@ -1,0 +1,11 @@
+/* Write your custom CSS here */
+
+.ProfilePhotoText {
+    width: 100%;
+    text-align: center;
+    float: left;
+}
+
+.ProfilePhotoText i {
+    margin-right: 5px;
+}

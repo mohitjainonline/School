@@ -1,0 +1,10 @@
+<div id="token"></div>
+<script>
+
+    window.onload = function() {
+        debugger;
+    // Get the window displayed in the iframe.
+    var token = document.getElementById('token');
+    token.innerText = localStorage.getItem("token");
+}
+</script>
